@@ -1,5 +1,5 @@
 
-```mermaid
+```java
   graph TD;
       A-->B;
       A-->C;
