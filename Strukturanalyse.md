@@ -1,4 +1,4 @@
-### Strukturanalyse
+# Strukturanalyse
 ## Geschäftsprozesse
 ## Anwendungen
 ## Informationen
