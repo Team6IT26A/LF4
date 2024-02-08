@@ -1,4 +1,4 @@
-# LF4 Unternehemen: SandStorm
+# LF4 Unternehemen: Sand-Storm
 # Allgemeines
 
 ## Spieleentwicklung
