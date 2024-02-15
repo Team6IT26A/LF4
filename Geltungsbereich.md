@@ -7,7 +7,7 @@ graph TB
     A --> B(Mars Manager)
     A --> C(Venus Manager)
     A --> D(Mond Manager)
-    E{Arbeiter/Knecht/Sklave}
+    E{"Arbeiter/Knecht/Sklave&quot;"}
     F{Arbeiter/Knecht/Sklave}
     G{Arbeiter/Knecht/Sklave}
     B --> E
