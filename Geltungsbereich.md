@@ -14,7 +14,11 @@ graph TB
     C --> F
     D --> G
 
-    classDef orange fill:#f96,stroke:#333,stroke-width:4px;
+    classDef red fill:#b0102d,stroke:#333,stroke-width:4px;
+    classDef blue fill:#4842f5,stroke:#333,stroke-width:4px;
+    classDef orange fill:#f58a42,stroke:#333,stroke-width:4px;
+    class A red
+    class B,C,D blue
     class E,F,G orange
 
 
