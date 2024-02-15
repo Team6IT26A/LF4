@@ -7,7 +7,7 @@ graph TB
     A --> B(Mars Manager)
     A --> C(Venus Manager)
     A --> D(Mond Manager)
-    E{"`Arbeiter`"}
+    E["`This **is** _Markdown_`"]
     F{Arbeiter}
     G{Arbeiter}
     B --> E
