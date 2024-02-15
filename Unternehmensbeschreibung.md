@@ -12,7 +12,7 @@ Mit einem Absatz von mehreren Millionen Spielen pro Jahr, hat sich Sandstorm als
 
 Sandstorm ist ein expandierendes Unternehmen mit einem klaren Fokus auf Qualität und Kundenzufriedenheit. Das Unterenhmen setzt sich auch für Umweltschutz und soziale Gerechtigkeit ein, um einen positiven Beitrag zu leisten.
 
-Treten Sie ein in die Welt von Sandstorm und entdecken Sie, was Sandstorm für die Gaming-Community bereithälten.
+Treten Sie ein in die Welt von Sandstorm und entdecken Sie, was Sandstorm für die Gaming-Community bereithälten.😊
 
 
 
