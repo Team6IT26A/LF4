@@ -7,9 +7,9 @@ graph TB
     A --> B(Mars Manager)
     A --> C(Venus Manager)
     A --> D(Mond Manager)
-    E{Arbeiter}
-    F{Arbeiter}
-    G{Arbeiter}
+    E{\"Arbeiter\"}
+    F{\"Arbeiter\"}
+    G{\"Arbeiter\"}
     B --> E
     C --> F
     D --> G
@@ -20,8 +20,6 @@ graph TB
     class A red
     class B,C,D blue
     class E,F,G orange
-
-
 ```
 ### 2. Standorte
 
