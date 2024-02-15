@@ -9,7 +9,7 @@ graph TB
     A --> D(Mond Manager)
     E{"Arbeiter"}
     F{"Arbeiter"}
-    G{"/"Arbeiter"}
+    G{"//"Arbeiter"}
     B --> E
     C --> F
     D --> G
