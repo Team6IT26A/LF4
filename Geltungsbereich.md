@@ -2,7 +2,6 @@
 
 ### 1. Organisatorische Gliederung
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
 graph TB
     A[Geschäftsführer]
     A --> B(Mars Manager)
