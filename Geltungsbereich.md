@@ -7,7 +7,7 @@ graph TB
     A --> B(Mars Manager)
     A --> C(Venus Manager)
     A --> D(Mond Manager)
-    E{"quote:#quot;Arbeiter"}
+    E{"`"Arbeiter"`"}
     F{Arbeiter}
     G{Arbeiter}
     B --> E
