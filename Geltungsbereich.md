@@ -13,6 +13,11 @@ graph TB
     B --> E
     C --> F
     D --> G
+
+    classDef orange fill:#f96,stroke:#333,stroke-width:4px;
+    class E,F,G orange
+
+
 ```
 ### 2. Standorte
 
