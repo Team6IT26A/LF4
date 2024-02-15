@@ -10,9 +10,9 @@ graph TB
     E{Arbeiter}
     F{Arbeiter}
     G{Arbeiter}
-    B -->> E
-    C -->> F
-    D -->> G
+    B --> E
+    C --> F
+    D --> G
 ```
 ### 2. Standorte
 
