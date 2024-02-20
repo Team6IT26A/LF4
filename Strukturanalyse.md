@@ -1,4 +1,6 @@
 # Strukturanalyse
+Am Standort Bielefeld, dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, stehen 70 leistungsfähige Computerarbeitsplätze zur Verfügung, die alle mit einem zentral administrierten Windows-System oder macOS ausgestattet sind. Hier werden unsere Mitarbeiter mit der notwendigen Software für die Spieleentwicklung, einschließlich der Microsoft Office-Suite und spezieller Entwicklertools, unterstützt. Zusätzlich betreibt unser Team an diesem Standort fünf dedizierte Server, die für die Verwaltung von Entwicklungsdaten, Kommunikation, Testumgebungen, Speicher und Backups eingesetzt werden. Diese  IT-Infrastruktur gewährleistet, dass wir stets optimale Bedingungen für die Kreation unserer Spiele haben.
+
 ## Geschäftsprozesse, Anwendungen und Informationen
 1. Idee und Konzeptentwicklung
    - MindMeister für Brainstorming und Mind Mapping
@@ -28,21 +30,23 @@
    - Feedbackplattform, UserVoice für das Sammeln von Spielervorschlägen
    - Social Listening-Tool, Mention für das Monitoring von Spielerfeedback in sozialen Medien
 
-## IT-Systeme
-## Aktive Netzkomponente
-## Telekommunikationskomponente
-## IoT-Geräte
+**!!! Hier bitte noch um CRM System und interne Kommunikationsdienste ergänzen  !!!**
+
+## Spieleentwicklungs- und Testumgebung
+### Fünf dedizierte Server:
+- Entwicklungsdaten-Server
+- Kommunikationsserver
+- Testumgebungsserver
+- NAS-Server
+- Backup-Server
 
 
-## Räumliche Gegebenheiten
 ## Systembeschreibung der Clients
 ### Spieleentwickler
    1. High-End-PC
-      - Prozessor: Intel Core i7 oder AMD Ryzen 7 für schnelle Berechnungen und Rendering.
-      - Grafikkarte: NVIDIA GeForce RTX 30-Serie oder AMD Radeon RX 6000-Serie für hochauflösende Grafiken und schnelles Rendering.
-      - Arbeitsspeicher: 32 GB DDR4 RAM für schnelles Laden von Assets und Multitasking.
-      - Speicher: 1 TB NVMe SSD für schnelle Ladezeiten von Spielen und Projekten, zusätzliche HDD für die langfristige Speicherung großer Dateien.
-      - Betriebssystem: Windows 11 Pro für Kompatibilität mit den meisten Entwicklungsprogrammen und Spielen.
+      - für schnelle Berechnungen und Rendering.
+      - für hochauflösende Grafiken
+      - für schnelles Laden von Assets und Multitasking.
    2. Perepherie
       - Bildschirme: 3 x 27-Zoll-4K-Monitore für eine klare Darstellung von Grafiken, Entwicklungsumgebung und Details.
       - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
@@ -50,11 +54,8 @@
         
 ### Spieletester
    1. Mittlerer bis High-End-PC
-      - Prozessor: Intel Core i5 oder AMD Ryzen 5 für schnelles Laden von Spielen und stabile Leistung.
-      - Grafikkarte: NVIDIA GeForce GTX 1660 Ti oder AMD Radeon RX 5600 XT für gute Grafikleistung bei mittleren bis hohen Einstellungen.
-      - Arbeitsspeicher: 16 GB DDR4 RAM für reibungsloses Spielen und Multitasking.
-      - Speicher: 500 GB SSD für schnelle Ladezeiten von Spielen und Projekten.
-      - Betriebssystem: Windows 11 Professional für Kompatibilität mit den meisten Spielen und Testprogrammen.
+      - für schnelles Laden von Spielen und stabile Leistung.
+      - für gute Grafikleistung bei mittleren bis hohen Einstellungen.
    2. Perepherie
       - Monitor: 2x 27-Zoll-4K-Monitore für eine klare Darstellung von Spielen und Tests.
       - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
@@ -73,7 +74,7 @@
       - Powerbank
       - Firmen-Smartphone (iPhone) 
 ### Projektmanager
-   1.  Effektiver und zuverlässiger Laptop
+   1. Effektiver Laptop
       - mit einem schnellen Prozessor (z. B. Intel Core i7) und ausreichend RAM für die gleichzeitige Ausführung mehrerer Projektmanagement-Tools und Anwendungen.
       - Mobilität ist wichtig, damit das Projektmanagement von überall aus delegiert werden kann
    2. Perepherie
@@ -84,6 +85,55 @@
 ### Geschäftsleitung
    1. Mackbook Pro
       - Mit M1-Max Prozessor für ausreichender Leistung für Multitasking und geschäftskritische Anwendungen.
-     
    2. Perepherie
       - Dockingstation für Stationäre Arbeiten
+     
+
+## Aktive Netzkomponente
+### Netzinfrastruktur
+- Gigabit-Ethernet-Switches für die interne Netzwerkverbindung.
+- Router für die Verbindung mit externen Netzwerken und dem Internet.
+- Firewall und Sicherheitslösungen zum Schutz vor unerlaubtem Zugriff und Malware.
+
+
+**!!! Hier Organigramm, wie im Beispielunternehmen In Teams -> Klassennotizbuch -> Beispielunternehmen -> Netzplan ->  IT-Systeme der MooveTeq GmbH  !!!**
+
+## Telekommunikationskomponente
+**!!! Hier noch Kommunikationshardware auflisten (Headsets, Telefone... usw !!!**
+
+## IoT-Geräte
+Folgende IoT-Geräte kommen zum Einsatz, um Sicherheit und Produktivität im Arbeitsumfeld zu verbessern: 
+- Smarte Beleuchtungssysteme für anpassbare Lichtverhältnisse und Energieeinsparung.
+- Umweltsensoren zur Überwachung von Raumklima und Luftqualität.
+- Smarte Türschlösser mit Zugangskontrolle für verbesserte Sicherheit.
+- Präsenz- und Bewegungssensoren zur effizienten Raumnutzung und Energieeinsparung.
+- Gesundheits- und Wellness-Geräte für ergonomische Arbeitsplätze und Mitarbeitergesundheit.
+- Intelligente Konferenzraumtechnologie für effiziente Meetings und Zusammenarbeit.
+- Intelligente Rauchmelder, die jeden Mitarbeiter automatisiert warenen.
+
+
+
+## Räumliche Gegebenheiten
+### Gebäudestruktur
+
+- Mehrstöckiges Gebäude in Bielefeld.
+- Büros befinden sich auf mehreren Etagen, aufgeteilt nach zusammenhängenden Abteilungen.
+- Serverraum im Keller für optimale Kühlung und Sicherheit der Serverinfrastruktur.
+
+  **!!!!!  HIER EINE ZEICHNUNG DES GEBÄUDES ALS PNG !!!!!**
+
+### Büros
+
+- Kreative Büroflächen mit großzügigen Arbeitsbereichen für das Spiele-Entwickler Team.
+- Meetingräume für Teambesprechungen und Brainstorming-Sitzungen.
+- Gemeinschaftsbereiche und Lounges für informelle Zusammenkünfte und Pausen.
+
+**!!!!!  HIER DER RAUM-UMRISSE ALS PNG !!!!!**
+
+### Serverraum
+
+- Klimatisierter Kellerbereich für die Unterbringung der Serverinfrastruktur.
+- Sichere Zugangskontrolle und Überwachungssysteme zum Schutz der Server und Daten.
+- Platzoptimierte Rack-Systeme für eine effiziente Nutzung des Raumangebots.
+
+  **!!!!!  HIER DER RAUM-UMRISS ALS PNG !!!!!**
