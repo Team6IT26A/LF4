@@ -7,7 +7,7 @@
 2. Spieleentwicklung
    - Unreal Engine für die Entwicklung von Spielen
    - Visual Studio für die Programmierung
-   - Adobe Audition für die Audioentwicklung
+   - Cubase für die Audiobearbeitung
 3. Qualitätssicherung und Test
    - Unreal Engine Test Automation für automatisierte Tests   
 4. Veröffentlichungsvorbereitung
@@ -32,4 +32,58 @@
 ## Aktive Netzkomponente
 ## Telekommunikationskomponente
 ## IoT-Geräte
+
+
 ## Räumliche Gegebenheiten
+## Systembeschreibung der Clients
+### Spieleentwickler
+   1. High-End-PC:
+      - Prozessor: Intel Core i7 oder AMD Ryzen 7 für schnelle Berechnungen und Rendering.
+      - Grafikkarte: NVIDIA GeForce RTX 30-Serie oder AMD Radeon RX 6000-Serie für hochauflösende Grafiken und schnelles Rendering.
+      - Arbeitsspeicher: 32 GB DDR4 RAM für schnelles Laden von Assets und Multitasking.
+      - Speicher: 1 TB NVMe SSD für schnelle Ladezeiten von Spielen und Projekten, zusätzliche HDD für die langfristige Speicherung großer Dateien.
+      - Betriebssystem: Windows 11 Pro für Kompatibilität mit den meisten Entwicklungsprogrammen und Spielen.
+   2. Perepherie:
+      - Bildschirme: 3 x 27-Zoll-4K-Monitore für eine klare Darstellung von Grafiken, Entwicklungsumgebung und Details.
+      - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
+      - Audio: Audio-Interface mit neutralen Studio-Kopfhörern für die Bearbeitung/Mischen mit Sounds.
+        
+### Spieletester
+   1. Mittlerer bis High-End-PC:
+      - Prozessor: Intel Core i5 oder AMD Ryzen 5 für schnelles Laden von Spielen und stabile Leistung.
+      - Grafikkarte: NVIDIA GeForce GTX 1660 Ti oder AMD Radeon RX 5600 XT für gute Grafikleistung bei mittleren bis hohen Einstellungen.
+      - Arbeitsspeicher: 16 GB DDR4 RAM für reibungsloses Spielen und Multitasking.
+      - Speicher: 500 GB SSD für schnelle Ladezeiten von Spielen und Projekten.
+      - Betriebssystem: Windows 11 Professional für Kompatibilität mit den meisten Spielen und Testprogrammen.
+   2. Perepherie:
+      - Monitor: 2x 27-Zoll-4K-Monitore für eine klare Darstellung von Spielen und Tests.
+      - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
+      - Controller: Kontroller aller gängigen Spielekonsolen.
+      
+### Grafikdesigner & Marketing
+   1. iMac
+      - mit M2-Max Prozessor für Grafikbearbeitung und Multitasking
+   2. Perepherie:
+      - Grafiktablett: Wacom Intuos Pro oder iPad Pro mit Apple Pencil für präzise Zeichnungen und Illustrationen.
+      
+### Vertrieb-Arbeiter
+   1. Leichter Laptop
+      - MacBook Air mit M1-Chip für maximale Mobilität und Akku
+   2. Sonsiges
+      - Powerbank
+      - Firmen-Smartphone (iPhone) 
+### Projektmanager
+   1.  Effektiver und zuverlässiger Laptop
+      - mit einem schnellen Prozessor (z. B. Intel Core i7) und ausreichend RAM für die gleichzeitige Ausführung mehrerer Projektmanagement-Tools und Anwendungen.
+      - Mobilität ist wichtig, damit das Projektmanagement von überall aus delegiert werden kann
+   2. Perepherie
+      - Dockingstation für Stationäre Arbeiten
+### Personalarbeiter
+   1. Effizienter Desktop-PC 
+      - hinreichend Leistungsstark für Recruiting-Software und Human Resources Information Systemem (HRIS)
+### Geschäftsleitung
+   1. Mackbook Pro
+      - Mit M1-Max Prozessor für ausreichender Leistung für Multitasking und geschäftskritische Anwendungen.
+     
+   2. Perepherie
+      - Dockingstation für Stationäre Arbeiten
