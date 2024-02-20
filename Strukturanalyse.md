@@ -37,25 +37,25 @@
 ## Räumliche Gegebenheiten
 ## Systembeschreibung der Clients
 ### Spieleentwickler
-   1. High-End-PC:
+   1. High-End-PC
       - Prozessor: Intel Core i7 oder AMD Ryzen 7 für schnelle Berechnungen und Rendering.
       - Grafikkarte: NVIDIA GeForce RTX 30-Serie oder AMD Radeon RX 6000-Serie für hochauflösende Grafiken und schnelles Rendering.
       - Arbeitsspeicher: 32 GB DDR4 RAM für schnelles Laden von Assets und Multitasking.
       - Speicher: 1 TB NVMe SSD für schnelle Ladezeiten von Spielen und Projekten, zusätzliche HDD für die langfristige Speicherung großer Dateien.
       - Betriebssystem: Windows 11 Pro für Kompatibilität mit den meisten Entwicklungsprogrammen und Spielen.
-   2. Perepherie:
+   2. Perepherie
       - Bildschirme: 3 x 27-Zoll-4K-Monitore für eine klare Darstellung von Grafiken, Entwicklungsumgebung und Details.
       - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
       - Audio: Audio-Interface mit neutralen Studio-Kopfhörern für die Bearbeitung/Mischen mit Sounds.
         
 ### Spieletester
-   1. Mittlerer bis High-End-PC:
+   1. Mittlerer bis High-End-PC
       - Prozessor: Intel Core i5 oder AMD Ryzen 5 für schnelles Laden von Spielen und stabile Leistung.
       - Grafikkarte: NVIDIA GeForce GTX 1660 Ti oder AMD Radeon RX 5600 XT für gute Grafikleistung bei mittleren bis hohen Einstellungen.
       - Arbeitsspeicher: 16 GB DDR4 RAM für reibungsloses Spielen und Multitasking.
       - Speicher: 500 GB SSD für schnelle Ladezeiten von Spielen und Projekten.
       - Betriebssystem: Windows 11 Professional für Kompatibilität mit den meisten Spielen und Testprogrammen.
-   2. Perepherie:
+   2. Perepherie
       - Monitor: 2x 27-Zoll-4K-Monitore für eine klare Darstellung von Spielen und Tests.
       - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
       - Controller: Kontroller aller gängigen Spielekonsolen.
