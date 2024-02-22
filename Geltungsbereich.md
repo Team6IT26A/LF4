@@ -71,9 +71,7 @@ graph TB
 ### 3. Vereinfachter Netzplan
 ![alt text](https://github.com/Team6IT26A/LF4/blob/main/bilder/netzplan.png?raw=true)
 
-- Standorte sind mit geheimen Satelliten verbunden.
-- An jedem Standort ist jeder Mitarbeiter von 100m Beton voneinander getrennt.
-- Die Kabel, die sie miteinander verbinden, sind aus Titan.
+- Standorte sind mit geheimen Satelliten verbunden. Welche die daten automatisch ver/entschlüsseln
 
 ### 4. Eignegsetzte Informationstech
 
