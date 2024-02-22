@@ -6,6 +6,7 @@ Am Standort Bielefeld, dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, s
    - MindMeister für Brainstorming und Mind Mapping
    - Google Forms für Umfragen und Marktforschung
    - Adobe Creative Cloud (z.B. Photoshop, Illustrator) für das Design von Konzeptgrafiken und -artworks
+   - Microsoft Teams und Microsoft Outlook für interne Kommunikation
 2. Spieleentwicklung
    - Unreal Engine für die Entwicklung von Spielen
    - Visual Studio für die Programmierung
@@ -29,8 +30,8 @@ Am Standort Bielefeld, dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, s
    - Google Analytics für die Analyse von Spielerdaten und Metriken
    - Feedbackplattform, UserVoice für das Sammeln von Spielervorschlägen
    - Social Listening-Tool, Mention für das Monitoring von Spielerfeedback in sozialen Medien
+   - HubSpot CRM, benutzerfreundliches CRM-System, das Marketing, Vertrieb und Kundenservice zusammenführt
 
-**!!! Hier bitte noch um CRM System und interne Kommunikationsdienste ergänzen  !!!**
 
 ## Spieleentwicklungs- und Testumgebung
 ### Fünf dedizierte Server:
@@ -99,7 +100,9 @@ Am Standort Bielefeld, dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, s
 **!!! Hier Organigramm, wie im Beispielunternehmen In Teams -> Klassennotizbuch -> Beispielunternehmen -> Netzplan ->  IT-Systeme der MooveTeq GmbH  !!!**
 
 ## Telekommunikationskomponente
-**!!! Hier noch Kommunikationshardware auflisten (Headsets, Telefone... usw !!!**
+- Headsets für Sprachkonferenzen
+- Webcams für Videokonferenzen
+- VoIP-Telefone für Kontakt mit Kunden oder Geschäftspartner
 
 ## IoT-Geräte
 Folgende IoT-Geräte kommen zum Einsatz, um Sicherheit und Produktivität im Arbeitsumfeld zu verbessern: 
