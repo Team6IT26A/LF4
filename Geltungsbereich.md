@@ -2,8 +2,7 @@
 
 ### 1. Organisatorische Gliederung
 ```mermaid
-graph TB
-    graph LR
+graph LR
     A[CEO]
     A --> B[Standort Mars - Technik & Entwicklung]
     A --> C[Standort Venus - Kunst & Design]
