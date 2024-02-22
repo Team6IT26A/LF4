@@ -70,9 +70,10 @@ graph TB
 
 ### 3. Vereinfachter Netzplan
 ```mermaid
+mindmap
 direction TB
 root[Unternehmensnetzwerk]
-    subgraph Internes Netzwerk
+    subgraph "Internes Netzwerk"
         sw1[Switch]
             cli1[Client 1]
             cli2[Client 2]
@@ -81,7 +82,7 @@ root[Unternehmensnetzwerk]
             db[DB-Server]
             app[App-Server]
     end
-    subgraph DMZ (Demilitarisierte Zone)
+    subgraph "DMZ (Demilitarisierte Zone)"
         sw2[Switch DMZ]
             web[Web-Server]
             mail[Mail-Server]
