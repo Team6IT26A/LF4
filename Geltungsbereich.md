@@ -107,7 +107,6 @@ r1 --> fw1
 r1 --> vpn
 vpn --> int
 r1 --> int
-
 ```
 
 - Standorte sind mit geheimen Satelliten verbunden.
