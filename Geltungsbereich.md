@@ -2,7 +2,7 @@
 
 ### 1. Organisatorische Gliederung
 ```mermaid
-graph LR
+graph TB
     A[CEO]
     A --> B[Standort Mars - Technik & Entwicklung]
     A --> C[Standort Venus - Kunst & Design]
@@ -69,6 +69,46 @@ graph LR
 - Standort Venus mit 166 Mitarbeitern
 
 ### 3. Vereinfachter Netzplan
+```mermaid
+direction TB
+root[Unternehmensnetzwerk]
+    subgraph "Internes Netzwerk"
+        sw1[Switch]
+            cli1[Client 1]
+            cli2[Client 2]
+            cli3[Client 3]
+        srv1[Server]
+            db[DB-Server]
+            app[App-Server]
+    end
+    subgraph "DMZ (Demilitarisierte Zone)"
+        sw2[Switch DMZ]
+            web[Web-Server]
+            mail[Mail-Server]
+    end
+    fw1[Firewall 1]
+    fw2[Firewall 2]
+    r1[Router]
+        int[Internet]
+    vpn[VPN-Server]
+
+fw1 --> sw1
+fw1 --> fw2
+fw2 --> sw2
+sw1 --> cli1
+sw1 --> cli2
+sw1 --> cli3
+sw1 --> srv1
+srv1 --> db
+srv1 --> app
+sw2 --> web
+sw2 --> mail
+r1 --> fw1
+r1 --> vpn
+vpn --> int
+r1 --> int
+
+```
 
 - Standorte sind mit geheimen Satelliten verbunden.
 - An jedem Standort ist jeder Mitarbeiter von 100m Beton voneinander getrennt.
