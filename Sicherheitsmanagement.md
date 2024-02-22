@@ -40,11 +40,11 @@
 - Jedes Fenster und Türen haben Einbruchssensoren, die bei einer Beschädigung direkt aktiviert werden
 - Jede Sensoren sind entweder mit den zwei nächsten Polizeirevieren oder mit der Feuerwehr verbunden
 
-  ### Schulungen
-  - Jeder "Arbeitnehmer" muss verschiedene Schulungen absolvieren, um die maximale Sicherheit zu gewährleisten
-  -> Umgang mit Phishing-Mails
-  -> Umgang mit externe Mails/Daten
-  -> Umgang mit den arbeits spezifischen Anwendungen
+### Schulungen
+- Jeder "Arbeitnehmer" muss verschiedene Schulungen absolvieren, um die maximale Sicherheit zu gewährleisten
+-> Umgang mit Phishing-Mails
+-> Umgang mit externe Mails/Daten
+-> Umgang mit den arbeits spezifischen Anwendungen
 
 ### Arbeitsrechner
 - Jeder Arbeitsrechner **muss** eine Anti-Virus-Software installiert haben, um den Angriff von Viren zu reduzieren
