@@ -114,6 +114,52 @@ r1 --> int
 - An jedem Standort ist jeder Mitarbeiter von 100m Beton voneinander getrennt.
 - Die Kabel, die sie miteinander verbinden, sind aus Titan.
 
-### 4. Eigenes Betriebssystem
+### 4. Eignegsetzte Informationstech
 
-- Console only
+### Standort Mars - Technik & Entwicklung
+
+**Arbeitsplätze:**
+- 120 Computerarbeitsplätze mit einem zentral administrierten Windows-System für die Entwicklungs- und Technikteams.
+- Ausgestattet mit Standardsoftware (Microsoft Office, E-Mail-Clientsoftware) und Spezialsoftware für Entwickler (IDEs, Versionskontrollsysteme, CI/CD-Tools).
+
+**Server:**
+- Domänencontroller: Verwaltet Benutzerkonten und Berechtigungen.
+- Entwicklungsserver: Gehostete Entwicklungsumgebungen und Testumgebungen.
+- CI/CD Server: Automatisiert die Softwarebereitstellung und das Testing.
+- Spiel-Testserver: Für interne Tests und QA.
+
+### Standort Venus - Kunst & Design
+
+**Arbeitsplätze:**
+- 80 Computerarbeitsplätze mit High-End-Grafikkarten, zentral administriert, speziell für Grafikdesigner und Künstler.
+- Standard- und Spezialsoftware, einschließlich Adobe Creative Cloud, 3D-Modellierungssoftware und Animationswerkzeugen.
+
+**Server:**
+- Dateiserver: Hochleistungsserver für große Mediendateien.
+- Render-Farm: Für 3D-Rendering und komplexe Animationen.
+- Backup- und Archivierungsserver: Sicherung von Kunstwerken und Projektdateien.
+
+### Standort Mond - Marketing & Vertrieb
+
+**Arbeitsplätze:**
+- 50 Computerarbeitsplätze mit einem zentral administrierten Windows-System für Marketing- und Vertriebsmitarbeiter.
+- Standardsoftware inklusive Microsoft Office, E-Mail-Clientsoftware und CRM-Software.
+
+**Server:**
+- Kommunikationsserver: Für E-Mail, Termine und CRM.
+- Webserver: Hosting der Marketingmaterialien und Kampagnen-Websites.
+- Analyse-Server: Für Marktanalysen und Vertriebsdaten.
+
+### Netzwerkinfrastruktur und Sicherheit (Gemeinsam für alle Standorte)
+
+- Zentrale Firewall und Router mit Paketfilterung für den gesamten Datenverkehr.
+- VPN-Zugang für sichere Fernzugriffe und Verbindung zwischen den Standorten.
+- DSL-Verbindung für Internetzugang mit hoher Bandbreite.
+- Unified Threat Management (UTM) Systeme für erweiterte Netzwerksicherheit.
+
+### Zusätzliche IT-Ausstattung und Dienste
+
+- Telekommunikationssysteme an allen Standorten für interne und externe Kommunikation.
+- Mobile Geräte: Tablets und Smartphones für Teams, die Mobilität benötigen (z.B. Vertrieb).
+- Cloud-Dienste: Für E-Mail, Dateispeicherung und Kollaboration (z.B. Microsoft 365).
+- Entwicklungs- und Testumgebungen in der Cloud für Flexibilität und Skalierbarkeit.
