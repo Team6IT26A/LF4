@@ -8,6 +8,8 @@
 4. Elektronik
 5. Arbeitsplatz
 6. Sensoren und Aktoren
+7. Schulungen
+8. Arbeitsrechner
 
 ### Allgemein
 
@@ -37,3 +39,17 @@
 - In den Gebäuden selbst existieren Bewegungssensoren, die von 20 Uhr bis 5 Uhr aktiv sind
 - Jedes Fenster und Türen haben Einbruchssensoren, die bei einer Beschädigung direkt aktiviert werden
 - Jede Sensoren sind entweder mit den zwei nächsten Polizeirevieren oder mit der Feuerwehr verbunden
+
+  ### Schulungen
+  -Jeder "Arbeitnehmer" muss verschiedene Schulungen absolvieren, um die maximale Sicherheit zu gewährleisten
+  -> Umgang mit Phishing-Mails
+  -> Umgang mit externe Mails/Daten
+  -> Umgang mit den arbeits spezifischen Anwendungen
+
+  ### Arbeitsrechner
+  - Jeder Arbeitsrechner **muss** eine Anti-Virus-Software installiert haben, um den Angriff von Viren zu reduzieren
+  - Eine weitere Sicherheitsmöglichkeit ist, dass jeder PC auf dem Arbeitsgelände mit einer Firewall verbunden ist
+  - Um den Arbeitsprozess zu sichern, wird in regelmäßigen Abstände ein Backup im Haus eigenen Server und in einem Cloudspeicher gemacht
+  - Jedes Passwort muss einmalig vergeben werden, dabei müssen die Passwörter aus wirrkürlichen 20 Ziffern bestehen
+  - Bei inaktiver Webcam **muss** diese so ausgerichtet/abgeklebt sein, dass man den Arbeitnehmer und den Arbeitsplatz nicht erkennen könnte
+  	  
