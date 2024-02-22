@@ -69,7 +69,7 @@ graph TB
 - Standort Venus mit 166 Mitarbeitern
 
 ### 3. Vereinfachter Netzplan
-![alt text](https://github.com/Team6IT26A/LF4/blob/main/netzplan.png?raw=true)
+![alt text](https://github.com/Team6IT26A/LF4/blob/main/bilder/netzplan.png?raw=true)
 
 - Standorte sind mit geheimen Satelliten verbunden.
 - An jedem Standort ist jeder Mitarbeiter von 100m Beton voneinander getrennt.
