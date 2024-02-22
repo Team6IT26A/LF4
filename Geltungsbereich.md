@@ -3,23 +3,37 @@
 ### 1. Organisatorische Gliederung
 ```mermaid
 graph TB
-    A[Geschäftsführer]
-    A --> B(Mars Manager)
-    A --> C(Venus Manager)
-    A --> D(Mond Manager)
-    E{"Arbeiter/Knecht/Sklave&quot;"}
-    F{Arbeiter/Knecht/Sklave}
-    G{Arbeiter/Knecht/Sklave}
-    B --> E
-    C --> F
-    D --> G
+    A[CEO]
+    A --> B[Standort Mars - Technik & Entwicklung]
+    A --> C[Standort Venus - Kunst & Design]
+    A --> D[Standort Mond - Marketing & Vertrieb]
+    B --> B1[Leiter Technik]
+    B --> B2[Leiter Entwicklung]
+    B1 --> B1a{Programmierer}
+    B1 --> B1b{Technischer Direktor}
+    B2 --> B2a{Spieldesigner}
+    B2 --> B2b{Level-Designer}
+    C --> C1[Leiter Kunst]
+    C --> C2[Leiter Design]
+    C1 --> C1a{Grafikdesigner}
+    C1 --> C1b{Charakterdesigner}
+    C2 --> C2a{UI/UX-Designer}
+    C2 --> C2b{Konzeptkünstler}
+    D --> D1[Leiter Marketing]
+    D --> D2[Leiter Vertrieb]
+    D1 --> D1a{Social Media Manager}
+    D1 --> D1b{PR-Manager}
+    D2 --> D2a{Sales Manager}
+    D2 --> D2b{Kundenbetreuung}
 
     classDef red fill:#b0102d,stroke:#333,stroke-width:4px;
     classDef blue fill:#4842f5,stroke:#333,stroke-width:4px;
     classDef orange fill:#f58a42,stroke:#333,stroke-width:4px;
+    classDef green fill:#34a853,stroke:#333,stroke-width:4px;
     class A red
     class B,C,D blue
-    class E,F,G orange
+    class B1,B2,C1,C2,D1,D2 green
+    class B1a,B1b,B2a,B2b,C1a,C1b,C2a,C2b,D1a,D1b,D2a,D2b orange
 ```
 ### 2. Standorte
 
