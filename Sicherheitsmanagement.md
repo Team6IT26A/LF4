@@ -52,4 +52,5 @@
 - Um den Arbeitsprozess zu sichern, wird in regelmäßigen Abstände ein Backup im Haus eigenen Server und in einem Cloudspeicher gemacht
 - Jedes Passwort muss einmalig vergeben werden, dabei müssen die Passwörter aus wirrkürlichen 20 Ziffern bestehen
 - Bei inaktiver Webcam **muss** diese so ausgerichtet/abgeklebt sein, dass man den Arbeitnehmer und den Arbeitsplatz nicht erkennen könnte
+- Der Internetzugang wird eingeschränkt und mit ein VPN-Zugang gesichert
   	  
