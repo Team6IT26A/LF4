@@ -1,5 +1,5 @@
 # Strukturanalyse
-Am Standort Bielefeld, dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, stehen 70 leistungsfähige Computerarbeitsplätze zur Verfügung, die alle mit einem zentral administrierten Windows-System oder macOS ausgestattet sind. Hier werden unsere Mitarbeiter mit der notwendigen Software für die Spieleentwicklung, einschließlich der Microsoft Office-Suite und spezieller Entwicklertools, unterstützt. Zusätzlich betreibt unser Team an diesem Standort fünf dedizierte Server, die für die Verwaltung von Entwicklungsdaten, Kommunikation, Testumgebungen, Speicher und Backups eingesetzt werden. Diese  IT-Infrastruktur gewährleistet, dass wir stets optimale Bedingungen für die Kreation unserer Spiele haben.
+Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, stehen 70 leistungsfähige Computerarbeitsplätze zur Verfügung, die alle mit einem zentral administrierten Windows-System oder macOS ausgestattet sind. Hier werden unsere Mitarbeiter mit der notwendigen Software für die Spieleentwicklung, einschließlich der Microsoft Office-Suite und spezieller Entwicklertools, unterstützt. Zusätzlich betreibt unser Team an diesem Standort fünf dedizierte Server, die für die Verwaltung von Entwicklungsdaten, Kommunikation, Testumgebungen, Speicher und Backups eingesetzt werden. Diese  IT-Infrastruktur gewährleistet, dass wir stets optimale Bedingungen für die Kreation unserer Spiele haben.
 
 ## Geschäftsprozesse, Anwendungen und Informationen
 1. Idee und Konzeptentwicklung
@@ -119,7 +119,7 @@ Folgende IoT-Geräte kommen zum Einsatz, um Sicherheit und Produktivität im Arb
 ## Räumliche Gegebenheiten
 ### Gebäudestruktur
 
-- Mehrstöckiges Gebäude in Bielefeld.
+- Mehrstöckiges Gebäude in Bielefeld(Mars).
 - Büros befinden sich auf mehreren Etagen, aufgeteilt nach zusammenhängenden Abteilungen.
 - Serverraum im Keller für optimale Kühlung und Sicherheit der Serverinfrastruktur.
 
