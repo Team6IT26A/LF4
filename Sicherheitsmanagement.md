@@ -1,15 +1,5 @@
 # Sicherheitsmanagement 
 
-## Gliederung
-
-1. Tür-Sicherheitsmaßnahme
-2. Überwachung
-3. Elektronik
-4. Arbeitsplatz
-5. Sensoren und Aktoren
-6. Schulungen
-7. Arbeitsrechner
-
 ### Tür-Sicherheitsmaßnahme
 - Eigangstür kann nur durch ein NFC-Chip betretten werden
 - Die einzelne Büroräume werden zusätzlich mit der gleichen Technick verschlossen. 
