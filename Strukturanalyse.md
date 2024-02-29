@@ -45,18 +45,18 @@ Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandst
 ## Systembeschreibung der Clients
 ### Spieleentwickler
    1. High-End-PC
-      - für schnelle Berechnungen und Rendering.
-      - für hochauflösende Grafiken
-      - für schnelles Laden von Assets und Multitasking.
+      - Prozessor: Intel Core i7 oder AMD Ryzen 7 für schnelle Berechnungen und Rendering.
+      - Grafikkarte: NVIDIA GeForce RTX 30-Serie oder AMD Radeon RX 6000-Serie für hochauflösende Grafiken und schnelles Rendering.
+      - Arbeitsspeicher: 32 GB DDR4 RAM für schnelles Laden von Assets und reibungsloses Multitasking.
+      - Betriebssystem: Windows 10 Pro für Kompatibilität mit den meisten Entwicklungsprogrammen und Spielen.
+      - Speicher: 1 TB NVMe SSD für schnelle Ladezeiten von Spielen und Projekten, zusätzliche HDD für die langfristige Speicherung großer Dateien.
    2. Perepherie
-      - Bildschirme: 3 x 27-Zoll-4K-Monitore für eine klare Darstellung von Grafiken, Entwicklungsumgebung und Details.
+      - Bildschirme: 2 x 27-Zoll-4K-Monitore für eine klare Darstellung von Grafiken, Entwicklungsumgebung und Details.
       - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
       - Audio: Audio-Interface mit neutralen Studio-Kopfhörern für die Bearbeitung/Mischen mit Sounds.
         
 ### Spieletester
-   1. Mittlerer bis High-End-PC
-      - für schnelles Laden von Spielen und stabile Leistung.
-      - für gute Grafikleistung bei mittleren bis hohen Einstellungen.
+   1. Gleiche Konfiguration wie die Spieleentwickler
    2. Perepherie
       - Monitor: 2x 27-Zoll-4K-Monitore für eine klare Darstellung von Spielen und Tests.
       - Tastatur und Maus: Zuverlässige Tastatur und Maus für komfortables Spielen und Testen.
@@ -65,27 +65,40 @@ Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandst
 ### Grafikdesigner & Marketing
    1. iMac
       - mit M2-Max Prozessor für Grafikbearbeitung und Multitasking
+      - 64 GB gemeinsamer Arbeitsspeicher für Multitasking
+      - 2TB SSD-Speicher für schnelles Daten von großen Grafik-Dateien
+     
    2. Perepherie:
       - Grafiktablett: Wacom Intuos Pro oder iPad Pro mit Apple Pencil für präzise Zeichnungen und Illustrationen.
+      - Farblaserdrucker für den Druck von Marketingmaterialien, Präsentationen, Broschüren und anderen grafischen Elementen.
+      - Tintenstrahldrucker für den Druck von hochwertigen Fotos, Grafiken und Illustrationen.
       
 ### Vertrieb-Arbeiter
    1. Leichter Laptop
       - MacBook Air mit M1-Chip für maximale Mobilität und Akku
+      - 16 GB gemeinsamer Arbeitsspeicher
+      - 512 GB SSD-Festplatte
    2. Sonsiges
       - Powerbank
+      - 1 TB externe Festplatte
       - Firmen-Smartphone (iPhone) 
 ### Projektmanager
    1. Effektiver Laptop
-      - mit einem schnellen Prozessor (z. B. Intel Core i7) und ausreichend RAM für die gleichzeitige Ausführung mehrerer Projektmanagement-Tools und Anwendungen.
-      - Mobilität ist wichtig, damit das Projektmanagement von überall aus delegiert werden kann
+      - Intel Core i7 und 32 GB RAM für die gleichzeitige Ausführung mehrerer Projektmanagement-Tools und Anwendungen.
+      - 1 TB SSD-Festplatte
+      - Mobilität ist wichtig, damit das Projektmanagement von überall aus delegiert werden kann.
    2. Perepherie
       - Dockingstation für Stationäre Arbeiten
 ### Personalarbeiter
-   1. Effizienter Desktop-PC 
+   1. Effizienter Desktop-PC
+      - Intel Core i5, 16 GB RAM, 1TB SSD
       - hinreichend Leistungsstark für Recruiting-Software und Human Resources Information Systemem (HRIS)
+   2. Perepherie
+      - Ergonomische Maus und Tastertur
+      - Multifunktions-Drucker
 ### Geschäftsleitung
    1. Mackbook Pro
-      - Mit M1-Max Prozessor für ausreichender Leistung für Multitasking und geschäftskritische Anwendungen.
+      - Mit M2-Max Prozessor mit 32GB RAM und 1 TB SSD für ausreichender Leistung für Multitasking und geschäftskritische Anwendungen.
    2. Perepherie
       - Dockingstation für Stationäre Arbeiten
      
