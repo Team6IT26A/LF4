@@ -43,7 +43,7 @@ Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandst
 
 
 ## Systembeschreibung der Clients
-### Spieleentwickler
+### Spieleentwickler  <- Dies und Spielertester sind die zu betrachtende Clients für die Schutzbedarfsanalyse
    1. High-End-PC
       - Prozessor: Intel Core i7 oder AMD Ryzen 7 für schnelle Berechnungen und Rendering.
       - Grafikkarte: NVIDIA GeForce RTX 30-Serie oder AMD Radeon RX 6000-Serie für hochauflösende Grafiken und schnelles Rendering.
