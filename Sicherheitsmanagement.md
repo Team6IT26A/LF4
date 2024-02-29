@@ -37,16 +37,16 @@
 - Jede Sensoren sind entweder mit den zwei nächsten Polizeirevieren oder mit der Feuerwehr verbunden.
 
 ### Schulungen
-- Jeder "Arbeitnehmer" muss verschiedene Schulungen absolvieren, um die maximale Sicherheit zu gewährleisten
+ Jeder "Arbeitnehmer" muss verschiedene Schulungen absolvieren, um die maximale Sicherheit zu gewährleisten.
+ Folgende Schulungen werden gemacht:
 - Umgang mit Phishing-Mails
 - Umgang mit externe Mails/Daten
 - Umgang mit den arbeits spezifischen Anwendungen
 
 ### Arbeitsrechner
-- Jeder Arbeitsrechner **muss** eine Anti-Virus-Software installiert haben, um den Angriff von Viren zu reduzieren
+- Jeder Arbeitsrechner **muss** mit einer Anti-Virus-Software laufen, um den Angriff von Viren zu reduzieren
 - Eine weitere Sicherheitsmöglichkeit ist, dass jeder PC auf dem Arbeitsgelände mit einer Firewall verbunden ist
 - Um den Arbeitsprozess zu sichern, wird in regelmäßigen Abstände ein Backup im Haus eigenen Server und in einem Cloudspeicher gemacht
 - Jedes Passwort muss einmalig vergeben werden, dabei müssen die Passwörter aus wirrkürlichen 20 Ziffern bestehen
 - Bei inaktiver Webcam **muss** diese so ausgerichtet/abgeklebt sein, dass man den Arbeitnehmer und den Arbeitsplatz nicht erkennen könnte
 - Der Internetzugang wird eingeschränkt und mit ein VPN-Zugang gesichert
-  	  
