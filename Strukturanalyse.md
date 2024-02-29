@@ -1,5 +1,5 @@
 # Strukturanalyse
-Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, stehen 70 leistungsfähige Computerarbeitsplätze zur Verfügung, die alle mit einem zentral administrierten Windows-System oder macOS ausgestattet sind. Hier werden unsere Mitarbeiter mit der notwendigen Software für die Spieleentwicklung, einschließlich der Microsoft Office-Suite und spezieller Entwicklertools, unterstützt. Zusätzlich betreibt unser Team an diesem Standort fünf dedizierte Server, die für die Verwaltung von Entwicklungsdaten, Kommunikation, Testumgebungen, Speicher und Backups eingesetzt werden. Diese  IT-Infrastruktur gewährleistet, dass wir stets optimale Bedingungen für die Kreation unserer Spiele haben.
+Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandstorm, stehen 70 leistungsfähige Computerarbeitsplätze zur Verfügung, die alle mit einem zentral administrierten Windows-System oder macOS ausgestattet sind. Hier werden unsere Mitarbeiter mit der notwendigen Software für die Spieleentwicklung, einschließlich der Microsoft Office-Suite und spezieller Entwicklertools, unterstützt. Zusätzlich betreibt unser Team an diesem Standort sieben dedizierte Server, die für die Verwaltung von Entwicklungsdaten, Kommunikation, Testumgebungen, Speicher, Sicherheit und Backups eingesetzt werden. Diese  IT-Infrastruktur gewährleistet, dass wir stets optimale Bedingungen für die Kreation unserer Spiele haben.
 
 ## Geschäftsprozesse, Anwendungen und Informationen
 1. Idee und Konzeptentwicklung
@@ -110,7 +110,7 @@ Am Standort Bielefeld(Mars), dem Kern unseres Spiele-Entwickler Teams bei Sandst
 - Firewall und Sicherheitslösungen zum Schutz vor unerlaubtem Zugriff und Malware.
 
 
-**!!! Hier Organigramm, wie im Beispielunternehmen In Teams -> Klassennotizbuch -> Beispielunternehmen -> Netzplan ->  IT-Systeme der MooveTeq GmbH  !!!**
+![alt test](https://github.com/Team6IT26A/LF4/blob/main/bilder/netzplan.png)
 
 ## Telekommunikationskomponente
 - Headsets für Sprachkonferenzen
@@ -136,7 +136,6 @@ Folgende IoT-Geräte kommen zum Einsatz, um Sicherheit und Produktivität im Arb
 - Büros befinden sich auf mehreren Etagen, aufgeteilt nach zusammenhängenden Abteilungen.
 - Serverraum im Keller für optimale Kühlung und Sicherheit der Serverinfrastruktur.
 
-  **!!!!!  HIER EINE ZEICHNUNG DES GEBÄUDES ALS PNG !!!!!**
 
 ### Büros
 
@@ -152,4 +151,3 @@ Folgende IoT-Geräte kommen zum Einsatz, um Sicherheit und Produktivität im Arb
 - Sichere Zugangskontrolle und Überwachungssysteme zum Schutz der Server und Daten.
 - Platzoptimierte Rack-Systeme für eine effiziente Nutzung des Raumangebots.
 
-  **!!!!!  HIER DER RAUM-UMRISS ALS PNG !!!!!**
