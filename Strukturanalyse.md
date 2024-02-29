@@ -144,7 +144,7 @@ Folgende IoT-Geräte kommen zum Einsatz, um Sicherheit und Produktivität im Arb
 - Meetingräume für Teambesprechungen und Brainstorming-Sitzungen.
 - Gemeinschaftsbereiche und Lounges für informelle Zusammenkünfte und Pausen.
 
-**!!!!!  HIER DER RAUM-UMRISSE ALS PNG !!!!!**
+![alt text](https://github.com/Team6IT26A/LF4/blob/main/bilder/B%C3%BCroraum.PNG)
 
 ### Serverraum
 
